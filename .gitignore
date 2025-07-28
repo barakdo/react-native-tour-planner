@@ -1,0 +1,120 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.pem
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+Icon?
+
+# Visual Studio Code settings (local-only)
+.vscode/
+*.code-workspace
+
+# Log files
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Backup and temporary files
+*~
+*.tmp
+## Vim swap files
+*.swp
+
+# .NET / Visual Studio – Server-side outer folder only (temporary structure)
+# (because Server/Server/ contains the real project)
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.sln
+Server/bin/
+Server/appsettings.json
+
+
+
+# dependencies (Installed libraries and packages)
+Client/node_modules/
+
+# Expo
+Client/.expo/
+Client/dist/
+Client/web-build/
+Client/expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+Client/npm-debug.*
+Client/yarn-debug.*
+Client/yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+
+
+Client/app-example
+
+
+# ─────────────────────────────── added ───────────────────────────────
+# Expo-related folders (Shared config data for Expo SDKs)
+.expo-shared/
+
+# Environment variables / secrets
+## General environment config
+.env
+## Additional environment variants (e.g., .env.production)
+.env.*
+
+# Log files and debug info
+## General logs
+*.log
+## npm-specific debug logs
+Client/npm-debug.log*
+## yarn-specific error logs
+Client/yarn-error.log*
+
+# Build artifacts (web/native) - Local build output (common)
+Client/build/
+
+# iOS project files (Xcode-generated)
+Client/ios/Pods/
+Client/ios/build/
+Client/ios/DerivedData/
+
+# Android project files (Android Studio-generated)
+## Gradle cache
+Client/android/.gradle/
+## APK build output
+Client/android/app/build/
+## Local-only SDK path, should not be tracked (machine-specific)
+Client/android/local.properties
+
+# Android signing keys (DO NOT TRACK!)
+## Java KeyStore files
+*.jks
+## Android app signing keys
+*.keystore
+
+Client/screens/itinerary/config.ts
