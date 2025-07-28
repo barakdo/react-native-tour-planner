@@ -2,7 +2,9 @@
 
 A travel app with personalized recommendations and AI-generated content based on your preferred genre and language.
 
-![App Demo](media/preview.gif)
+<p align="center">
+  <img src="media/preview.gif" alt="App Demo" width="250" />
+</p>
 
 ---
 
@@ -48,26 +50,34 @@ A travel app with personalized recommendations and AI-generated content based on
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-<img src="media/home.png" width="600" alt="Home screen" />
-
-### ⭐ Recommended Landmarks
-<img src="media/recommended.png" width="600" alt="Recommended landmarks" />
-
-### 🔍 Search Screen
-<img src="media/search.png" width="600" alt="Search screen" />
-
-### 🗺️ Recommended Route
-<img src="media/route.png" width="600" alt="Recommended route" />
-
-### 🌐 Language Selection
-<img src="media/language.png" width="600" alt="Language selection" />
-
-### 🎭 Genre Selection
-<img src="media/genre.png" width="600" alt="Genre selection" />
-
-### 🔊 Listening Mode
-<img src="media/player.png" width="600" alt="Listening screen with text-to-speech" />
+<table>
+  <tr>
+    <td align="center"><strong>🏠 Home Screen</strong></td>
+    <td align="center"><strong>⭐ Recommended Landmarks</strong></td>
+    <td align="center"><strong>🔍 Search Screen</strong></td>
+  </tr>
+  <tr>
+    <td><img src="media/home.png" width="250"/></td>
+    <td><img src="media/recommended.png" width="250"/></td>
+    <td><img src="media/search.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗺️ Recommended Route</strong></td>
+    <td align="center"><strong>🌐 Language Selection</strong></td>
+    <td align="center"><strong>🎭 Genre Selection</strong></td>
+  </tr>
+  <tr>
+    <td><img src="media/route.png" width="250"/></td>
+    <td><img src="media/language.png" width="250"/></td>
+    <td><img src="media/genre.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔊 Listening Mode</strong></td>
+  </tr>
+  <tr>
+    <td><img src="media/player.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
