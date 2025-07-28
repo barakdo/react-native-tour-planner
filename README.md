@@ -12,7 +12,7 @@ A travel app with personalized recommendations and AI-generated content based on
 - Select your preferred **genre** (e.g. fantasy, thriller, romance)
 - Choose your **language**
 - Set your **search radius**
-- Manage your **personal profile**, including favorite places
+- Manage your **personal profile**, including favorite places and interests
 
 ### 📍 Exploration
 - Get AI-generated recommendations for nearby landmarks
